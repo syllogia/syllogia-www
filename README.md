@@ -3,4 +3,5 @@
 ## repositories
 
 - [gitlab](https://gitlab.com/syllogia/ressources/syllogia-www) main
-- [github](#)
+- [github](https://github.com/bamdadsabbagh/syllogia-www)
+
