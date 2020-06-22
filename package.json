@@ -1,0 +1,42 @@
+{
+  "name": "www.syllogia.com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "snyk": "^1.324.0"
+  },
+  "scripts": {
+    "start": "BROWSER=none react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "lint": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
+    "style": "stylelint 'src/**/*.{js,jsx,ts,tsx}' --fix",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@bamdadsabbagh/eslint-config": "^1.1.1",
+    "@bamdadsabbagh/stylelint-config": "^1.0.7",
+    "react-scripts": "3.4.1"
+  },
+  "snyk": true
+}
