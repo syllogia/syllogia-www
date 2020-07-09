@@ -6,7 +6,7 @@
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "snyk": "^1.360.0"
+    "snyk": "^1.361.3"
   },
   "scripts": {
     "start": "BROWSER=none react-scripts start",
@@ -34,8 +34,8 @@
     ]
   },
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.2.12",
-    "@bamdadsabbagh/stylelint-config": "^1.2.10",
+    "@bamdadsabbagh/eslint-config": "^1.2.13",
+    "@bamdadsabbagh/stylelint-config": "^1.2.11",
     "eslint-plugin-prettier": "^3.1.4",
     "react-scripts": "3.4.1"
   },
