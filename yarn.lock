@@ -1148,10 +1148,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.39":
-  version "1.3.39"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.39.tgz#96736dd001a848aa42c0521d5130d59e61725aab"
-  integrity sha512-TY6L+KcX6CEKqWntnf3bbeiyL8ZC0MWW0zxbDFopRyeOYL/zLSFozQIUkpUfV/YPLQNXQBFpxznPtJ2vssJciA==
+"@bamdadsabbagh/eslint-config@^1.3.40":
+  version "1.3.40"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.40.tgz#ffc25cb80de42474f57c8b8df423eaedd103c8dd"
+  integrity sha512-eZjiwOOZC4gmPqxrEq8e2aq0hyNb7EQSKDld8HQs31Gb4JqHzlPwUaSSl+aTdj6bsNBY4rNVh/32RB3kcNwnAw==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^16.9.46"
@@ -1170,10 +1170,10 @@
     prettier "^2.0.5"
     typescript "^3.9.7"
 
-"@bamdadsabbagh/stylelint-config@^1.2.55":
-  version "1.2.55"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.55.tgz#4d730e83fbf32839d70f8fce5127da80859ee7e3"
-  integrity sha512-rIQdBZ3I0NLDRuPEBcsjkG4vu8Nvq3ALEdu7Nx0+atRIDRQeGGq0kF+3EhT8IkPSd0kh/Qp4JRuOXYQ3HXaLhg==
+"@bamdadsabbagh/stylelint-config@^1.2.56":
+  version "1.2.56"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.56.tgz#ae070d759c7faab26fce7091c5d6a022dea6ecd7"
+  integrity sha512-Ou+dtQcxfidUnida5/rqQsVmsSpia7jrJNab2X1Jk2Zzt1lHnhAJlE3BCMWwCxKlcBjIXCnoO0JjGJLztfXeYQ==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -2916,9 +2916,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001035, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001111:
-  version "1.0.30001119"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001119.tgz#99185d04bc00e76a86c9ff731dc5ec8e53aefca1"
-  integrity sha512-Hpwa4obv7EGP+TjkCh/wVvbtNJewxmtg4yVJBLFnxo35vbPapBr138bUWENkb5j5L9JZJ9RXLn4OrXRG/cecPQ==
+  version "1.0.30001120"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001120.tgz#cd21d35e537214e19f7b9f4f161f7b0f2710d46c"
+  integrity sha512-JBP68okZs1X8D7MQTY602jxMYBmXEKOFkzTBaNSkubooMPFOAv2TXWaKle7qgHpjLDhUzA/TMT0qsNleVyXGUQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -11241,9 +11241,9 @@ upath@^1.1.1:
   integrity sha512-aZwGpamFO61g3OlfT7OQCHqhGnW43ieH9WZeP7QxN/G/jS4jfqUkZxoryvJgVPEcrl5NL/ggHsSmLMHuH64Lhg==
 
 uri-js@^4.2.2:
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/uri-js/-/uri-js-4.2.2.tgz#94c540e1ff772956e2299507c010aea6c8838eb0"
-  integrity sha512-KY9Frmirql91X2Qgjry0Wd4Y+YTdrdZheS8TFwvkbLWf/G5KNJDCh6pKL5OZctEW4+0Baa5idK2ZQuELRwPznQ==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/uri-js/-/uri-js-4.3.0.tgz#e16cb9ef7b4036d74be59dc7342258e6f1aca20e"
+  integrity sha512-Q9Q9RlMM08eWfdPPmDDrXd8Ny3R1sY/DaRDR2zTPPneJ6GYiLx3++fPiZobv49ovkYAnHl/P72Ie3HWXIRVVYA==
   dependencies:
     punycode "^2.1.0"
 
