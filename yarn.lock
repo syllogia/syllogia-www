@@ -1148,10 +1148,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bamdadsabbagh/eslint-config@^1.3.52":
-  version "1.3.52"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.52.tgz#66e0cb32931d9a6d59cfb42dd845fd1d67993b12"
-  integrity sha512-fuZasxUNVdWlUYZShFLih/Wo1E5Z0k333AcswG1oRl+XPa35CyM4cxs6z7c4P9dko47y5DyW4r3nVkOvF6O6zg==
+"@bamdadsabbagh/eslint-config@^1.3.53":
+  version "1.3.53"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.3.53.tgz#3ac976ea14771064cca00f53246043dec0a10827"
+  integrity sha512-FHk5Zpz+BT2ToY3Xm5wFHmmCCiEsSBZ6NQwHv5opF46m7rA6UsGBh21J2avzs1S7hCzsrIs7XXKk2Ac591GUtA==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^16.9.46"
@@ -1170,10 +1170,10 @@
     prettier "^2.0.5"
     typescript "^3.9.7"
 
-"@bamdadsabbagh/stylelint-config@^1.2.69":
-  version "1.2.69"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.69.tgz#f07aa0b41d3faf226717e2483bf8dc5fc60064ef"
-  integrity sha512-H3W9eMQy5+wXbN4hhhEoj2IfQKMwHrXgpZZK/83U0SBcrcea5kynIR6rLQLltSKp3gthYDIaXtrc1fGAxSigVQ==
+"@bamdadsabbagh/stylelint-config@^1.2.70":
+  version "1.2.70"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.70.tgz#4edb552ddd6f0a48ccb2034d07b4db79a76c28bc"
+  integrity sha512-OmiZhAbAtcUl1wnXGMHGcaVNw2uDBmZjtYRoDXaIgqWQq8d5BoxZoMkZCgmG5zhXOQ/l6TqJsgFPgzmAdIRpow==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -9019,9 +9019,9 @@ postcss@7.0.21:
     supports-color "^6.1.0"
 
 postcss@^7, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.21, postcss@^7.0.23, postcss@^7.0.26, postcss@^7.0.27, postcss@^7.0.32, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.33"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.33.tgz#8aa22158ba133e4b4dd49a35031b75a68215b760"
-  integrity sha512-L3CKJMGkaTmz+/1AvXyOKpD7wPoUV0rBa2AdUXrsPBp8KLl5X99rY6gr4wQyMaeTo4wV+JdY7RaxlA5JsLaeig==
+  version "7.0.34"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.34.tgz#f2baf57c36010df7de4009940f21532c16d65c20"
+  integrity sha512-H/7V2VeNScX9KE83GDrDZNiGT1m2H+UTnlinIzhjlLX9hfMUn1mHNnGeX81a1c8JSBdBvqk7c2ZOG6ZPn5itGw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
