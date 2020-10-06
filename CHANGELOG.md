@@ -1,3 +1,14 @@
+## [1.1.106](https://github.com/syllogia/syllogia-www/compare/v1.1.105...v1.1.106) (2020-10-06)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0*630 ([e244d1c](https://github.com/syllogia/syllogia-www/commit/e244d1ca48db4797bb74c7f7e23a805c4f09d558))
+* asfalte: ⚙️ yarn-upgrade__0*630 ([3d36858](https://github.com/syllogia/syllogia-www/commit/3d36858218335d5010043dce3cd72217aaf06701))
+* asfalte: ⚙️ yarn-upgrade__0*630 ([64282f1](https://github.com/syllogia/syllogia-www/commit/64282f17b9a77cb6725adcd47cb11127b7f0e313))
+* asfalte: ⚙️ yarn-upgrade__0*630 ([aca6f04](https://github.com/syllogia/syllogia-www/commit/aca6f04562d43969d25be2ff171b8aed85f52377))
+* asfalte: 🐳 docker-base-image-check-gpr__0*630 ([73f2c6b](https://github.com/syllogia/syllogia-www/commit/73f2c6be775d1cf7560aede1c1dcb8610dd1cb38))
+
 ## [1.1.105](https://github.com/syllogia/syllogia-www/compare/v1.1.104...v1.1.105) (2020-10-05)
 
 
