@@ -1025,10 +1025,10 @@
     prettier "^2.0.5"
     typescript "^4.0.5"
 
-"@bamdadsabbagh/stylelint-config@^1.2.100":
-  version "1.2.100"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.100.tgz#5d81566bc7d447647f77dfa291b04c63cf320c04"
-  integrity sha512-eJ+a0brp0pwAbcEnXBFEgg4UrL0/H84bE7JmH/G58NpS+C2WjA56t9DCa0dNZu3pbHVKKA6GHPS9D5mmEGTi3A==
+"@bamdadsabbagh/stylelint-config@^1.2.101":
+  version "1.2.101"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.101.tgz#683847de0c0f94511433a22ff12e84f4af4c06c3"
+  integrity sha512-O5+P5d/L0dROT2V5ZATff6BVFS2lATwISc3+lMb46dYN9ePdDTypqOQXvu7/NhOcbu7WhY/6VLAOhPsh5ZfvYw==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -2957,6 +2957,14 @@ cache-base@^1.0.1:
     to-object-path "^0.3.0"
     union-value "^1.0.0"
     unset-value "^1.0.0"
+
+call-bind@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/call-bind/-/call-bind-1.0.0.tgz#24127054bb3f9bdcb4b1fb82418186072f77b8ce"
+  integrity sha512-AEXsYIyyDY3MCzbwdhzG3Jx1R0J2wetQyUynn6dYHAO+bg8l1k7jwZtRv4ryryFs7EP+NDlikJlVe59jr0cM2w==
+  dependencies:
+    function-bind "^1.1.1"
+    get-intrinsic "^1.0.0"
 
 caller-callsite@^2.0.0:
   version "2.0.0"
@@ -5244,6 +5252,15 @@ get-caller-file@^2.0.1:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-2.0.5.tgz#4f94412a82db32f36e3b0b9741f8a97feb031f7e"
   integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==
+
+get-intrinsic@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/get-intrinsic/-/get-intrinsic-1.0.1.tgz#94a9768fcbdd0595a1c9273aacf4c89d075631be"
+  integrity sha512-ZnWP+AmS1VUaLgTRy47+zKtjTxz+0xMpx3I52i+aalBK1QP19ggLF3Db89KJX7kjfOfP2eoa01qc++GwPgufPg==
+  dependencies:
+    function-bind "^1.1.1"
+    has "^1.0.3"
+    has-symbols "^1.0.1"
 
 get-own-enumerable-property-symbols@^3.0.0:
   version "3.0.2"
@@ -7830,12 +7847,12 @@ object-visit@^1.0.0:
     isobject "^3.0.0"
 
 object.assign@^4.1.0, object.assign@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/object.assign/-/object.assign-4.1.1.tgz#303867a666cdd41936ecdedfb1f8f3e32a478cdd"
-  integrity sha512-VT/cxmx5yaoHSOTSyrCygIDFco+RsibY2NM0a4RdEeY/4KgqezwFtK1yr3U67xYhqJSlASm2pKhLVzPj2lr4bA==
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/object.assign/-/object.assign-4.1.2.tgz#0ed54a342eceb37b38ff76eb831a0e788cb63940"
+  integrity sha512-ixT2L5THXsApyiUPYKmW+2EHpXXe5Ii3M+f4e+aJFAHao5amFRW6J0OO6c/LU8Be47utCx2GL89hxGB6XSmKuQ==
   dependencies:
+    call-bind "^1.0.0"
     define-properties "^1.1.3"
-    es-abstract "^1.18.0-next.0"
     has-symbols "^1.0.1"
     object-keys "^1.1.1"
 
