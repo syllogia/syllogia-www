@@ -31,8 +31,8 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.4.10",
-    "@bamdadsabbagh/stylelint-config": "^1.2.108",
+    "@bamdadsabbagh/eslint-config": "^1.4.11",
+    "@bamdadsabbagh/stylelint-config": "^1.2.109",
     "eslint-plugin-prettier": "^3.1.4",
     "react-scripts": "4.0.0"
   },
