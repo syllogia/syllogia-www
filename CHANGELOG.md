@@ -1,3 +1,17 @@
+## [1.1.162](https://github.com/syllogia/syllogia-www/compare/v1.1.161...v1.1.162) (2020-11-29)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0x630 ([e7d5423](https://github.com/syllogia/syllogia-www/commit/e7d5423728926a28693d835458c2e3773c24ca37))
+* asfalte: 🔨 git-commit-force-release__push ([05a2aa3](https://github.com/syllogia/syllogia-www/commit/05a2aa33b560e9a02ea34494b464cdabb71ac464))
+* tsconfig up to date ([3659c1c](https://github.com/syllogia/syllogia-www/commit/3659c1c00a8c6cefe27bea1aee0d92298649a3f0))
+
+
+### Performance Improvements
+
+* upgraded react-scripts ([a8ccc04](https://github.com/syllogia/syllogia-www/commit/a8ccc04772c1e65799a98a79b70a7abfaaaf923e))
+
 ## [1.1.161](https://github.com/syllogia/syllogia-www/compare/v1.1.160...v1.1.161) (2020-11-29)
 
 
