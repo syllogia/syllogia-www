@@ -1,3 +1,10 @@
+## [1.1.207](https://github.com/syllogia/syllogia-www/compare/v1.1.206...v1.1.207) (2021-01-13)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--0x630 ([ec827ee](https://github.com/syllogia/syllogia-www/commit/ec827ee43010ef4d2127e3bc62cb93fa292a1bf8))
+
 ## [1.1.206](https://github.com/syllogia/syllogia-www/compare/v1.1.205...v1.1.206) (2021-01-12)
 
 
