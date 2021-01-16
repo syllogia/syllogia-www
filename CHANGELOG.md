@@ -1,3 +1,12 @@
+## [1.1.211](https://github.com/syllogia/syllogia-www/compare/v1.1.210...v1.1.211) (2021-01-16)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--0x630 ([dae3c81](https://github.com/syllogia/syllogia-www/commit/dae3c81edd4269a679c8257e574999f98dcdcdd4))
+* asfalte: 🔨 git-commit-force-release--onPush ([121ba26](https://github.com/syllogia/syllogia-www/commit/121ba266a38c11b80d6e11298134dd27b7645be1))
+* update to react 17 [force-release] ([ab9c797](https://github.com/syllogia/syllogia-www/commit/ab9c79749f9af1740a6319b67777f121254a825a))
+
 ## [1.1.210](https://github.com/syllogia/syllogia-www/compare/v1.1.209...v1.1.210) (2021-01-16)
 
 
