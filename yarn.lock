@@ -1112,9 +1112,9 @@
     to-fast-properties "^2.0.0"
 
 "@bamdadsabbagh/eslint-config@^1.5.0":
-  version "1.5.5"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.5.5.tgz#5a3c54c9a0909545f6d1fd154deb2ccd58ccb57b"
-  integrity sha512-R6kpf6iqpd7R6OMylKTqph1sj2U0cpiv0E3Rk8nwg/X9TpK7+9XQGkKrz4qbI0HcdzD8xDIBEAiWtdjYnt3jzA==
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-1.5.6.tgz#738fccf867017cc640332975a54c31107c114ef8"
+  integrity sha512-rgenIFilsj1QakR1Tp3sSTX0QcrAaJ0l1PEttn7GguRJ5edMLYpM1oVo/puAdkTdlzlGl1t5uwPsAfeofAG0/A==
   dependencies:
     "@types/node" "^14.0.27"
     "@types/react" "^17.0.0"
@@ -1134,9 +1134,9 @@
     typescript "^4.0.5"
 
 "@bamdadsabbagh/stylelint-config@^1.2.114":
-  version "1.2.171"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.171.tgz#ca74d727782db9b01a610c20231568d87194a4d1"
-  integrity sha512-rrVlVGPk4XyUeWQzfhqXhQxeXvhDXpgXUK92YCSAZGzZUcWH7tXXSttAhdrp4vHGiaBhGfvfZc6VkPYVvZ+yjw==
+  version "1.2.172"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.2.172.tgz#637295660b938139c82bca2946a694bc7cf8b03f"
+  integrity sha512-duYBmdakY7rgvlNRu+S3Fp+f5tN+zmVbTq/SGhkV+NlbuPaaue40WH2W7qs7Mm64XC/KvIpdSZmbbva0ZOU4HA==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
@@ -3157,9 +3157,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001173:
-  version "1.0.30001180"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001180.tgz#67abcd6d1edf48fa5e7d1e84091d1d65ab76e33b"
-  integrity sha512-n8JVqXuZMVSPKiPiypjFtDTXc4jWIdjxull0f92WLo7e1MSi3uJ3NvveakSh/aCl1QKFAvIz3vIj0v+0K+FrXw==
+  version "1.0.30001181"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001181.tgz#4f0e5184e1ea7c3bf2727e735cbe7ca9a451d673"
+  integrity sha512-m5ul/ARCX50JB8BSNM+oiPmQrR5UmngaQ3QThTTp5HcIIQGP/nPBs82BYLE+tigzm3VW+F4BJIhUyaVtEweelQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
