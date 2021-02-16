@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "build": "GENERATE_SOURCEMAP=false SKIP_PREFLIGHT_CHECK=true react-scripts build",
+    "dev": "yarn start",
     "eject": "react-scripts eject",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
     "package:clean": "rm -rf node_modules",
@@ -13,30 +14,14 @@
     "style": "stylelint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "test": "react-scripts test"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "dependencies": {
-    "normalize.css": "^8.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "@bamdadsabbagh/eslint-config": "^1.5.0",
-    "@bamdadsabbagh/stylelint-config": "^1.2.114",
     "eslint-plugin-prettier": "^3.1.4",
-    "react-scripts": "4.0.1"
+    "node-sass": "^5.0.0",
+    "react-scripts": "4.0.2"
   }
 }
