@@ -1,3 +1,11 @@
+## [1.1.241](https://github.com/syllogia/syllogia-www/compare/v1.1.240...v1.1.241) (2021-02-16)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([3a5a6a9](https://github.com/syllogia/syllogia-www/commit/3a5a6a9dcbfc1635c4612fa9566b9d7c0fb26268))
+* refacto + GA ([27582e7](https://github.com/syllogia/syllogia-www/commit/27582e71d4318d9e6bc794c091645a1779defc11))
+
 ## [1.1.240](https://github.com/syllogia/syllogia-www/compare/v1.1.239...v1.1.240) (2021-02-15)
 
 
