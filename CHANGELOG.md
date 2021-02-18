@@ -1,3 +1,10 @@
+## [1.1.242](https://github.com/syllogia/syllogia-www/compare/v1.1.241...v1.1.242) (2021-02-18)
+
+
+### Bug Fixes
+
+* asfalte: 🐳 docker-gpr-base-image-check--0x630 ([cd514fb](https://github.com/syllogia/syllogia-www/commit/cd514fb7eded88c066e4bd786d42c8fc701e6bb4))
+
 ## [1.1.241](https://github.com/syllogia/syllogia-www/compare/v1.1.240...v1.1.241) (2021-02-16)
 
 
