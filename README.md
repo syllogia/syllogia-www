@@ -30,11 +30,4 @@
 
 <p align=center>
   <img src="https://img.shields.io/badge/ci-github--actions-yellowgreen">
-  <img src="https://img.shields.io/badge/cd-docker-yellowgreen">
 </p>
-
-## 🐳 Docker
-
-```bash
-docker run -d --restart=always --name syllogia-www -p 8080:80 docker.pkg.github.com/syllogia/syllogia-www/syllogia-www:latest
-```
