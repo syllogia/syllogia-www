@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/syllogia/syllogia-www/compare/v1.1.243...v1.2.0) (2021-02-28)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([ca0730a](https://github.com/syllogia/syllogia-www/commit/ca0730a674db5d9c2b1a7b4d2099edf17393b76c))
+
+
+### Features
+
+* ftp deploy + updates ([36a47f7](https://github.com/syllogia/syllogia-www/commit/36a47f706de0b0e9387c90a5c07eff5b78980caf))
+
 ## [1.1.243](https://github.com/syllogia/syllogia-www/compare/v1.1.242...v1.1.243) (2021-02-22)
 
 
