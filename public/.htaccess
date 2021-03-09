@@ -1,7 +1,9 @@
 RewriteEngine On
+
 # if not our domain
-RewriteCond %{HTTP_HOST} !^syllogia\.com$
+RewriteCond %{HTTP_HOST} !^syllogia\.com$ [NC]
 RewriteRule ^(.*)$ https://syllogia.com/$1 [L,R=301]
+
 # redirect all to root index.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
