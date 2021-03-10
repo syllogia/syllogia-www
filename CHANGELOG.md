@@ -1,3 +1,12 @@
+## [1.3.2](https://github.com/syllogia/syllogia-www/compare/v1.3.1...v1.3.2) (2021-03-10)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([76b18ad](https://github.com/syllogia/syllogia-www/commit/76b18ad49daad8ccc581975df43706bcc9c63fda))
+* **htaccess:** non case sensitive ([c85f4eb](https://github.com/syllogia/syllogia-www/commit/c85f4eb2e67edde4503133659421c6d3703957d6))
+* **htaccess:** removed indexing ([11f7dc1](https://github.com/syllogia/syllogia-www/commit/11f7dc1fdb6699ef0595024f41e43a554acd93ab))
+
 ## [1.3.1](https://github.com/syllogia/syllogia-www/compare/v1.3.0...v1.3.1) (2021-03-08)
 
 
