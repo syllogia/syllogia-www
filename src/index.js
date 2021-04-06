@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import logo from './assets/syllogia.svg'
-import './styles/reset.scss'
+import 'sass-reset'
 import './styles/main.scss'
 
 const App = () => (
