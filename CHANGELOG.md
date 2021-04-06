@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/syllogia/syllogia-www/compare/v1.3.5...v1.4.0) (2021-04-06)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([63a7e25](https://github.com/syllogia/syllogia-www/commit/63a7e25f34faf312a0403f7a002525f0002d7a1b))
+
+
+### Features
+
+* **styles:** moved to `sass-reset` npm package ([30441c9](https://github.com/syllogia/syllogia-www/commit/30441c9cce2e0cecbf6143a618271cf215cbc0a1))
+
 ## [1.3.5](https://github.com/syllogia/syllogia-www/compare/v1.3.4...v1.3.5) (2021-04-05)
 
 
