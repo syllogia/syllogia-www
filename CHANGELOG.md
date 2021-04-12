@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/syllogia/syllogia-www/compare/v1.4.0...v1.4.1) (2021-04-12)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-1000 ([8559244](https://github.com/syllogia/syllogia-www/commit/8559244a8a33fe5fd914953616d4263f1e1efbfa))
+* **dev tools:** added `rimraf` replacing `rm -rf` ([deb6a2b](https://github.com/syllogia/syllogia-www/commit/deb6a2b588f604169e5400c96501f2a7497ce20c))
+
 # [1.4.0](https://github.com/syllogia/syllogia-www/compare/v1.3.5...v1.4.0) (2021-04-06)
 
 
