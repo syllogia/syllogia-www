@@ -1,3 +1,10 @@
+## [1.4.16](https://github.com/syllogia/syllogia-www/compare/v1.4.15...v1.4.16) (2021-07-26)
+
+
+### Bug Fixes
+
+* **asfalte:** ⚙️ yarn-upgrade--onMondays-1000 ([4bc225d](https://github.com/syllogia/syllogia-www/commit/4bc225d0c9367aa7b15b47f408e4a9baa94b1c9b))
+
 ## [1.4.15](https://github.com/syllogia/syllogia-www/compare/v1.4.14...v1.4.15) (2021-07-19)
 
 
