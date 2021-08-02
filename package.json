@@ -6,12 +6,10 @@
     "build": "GENERATE_SOURCEMAP=false SKIP_PREFLIGHT_CHECK=true react-scripts build",
     "dev": "yarn start",
     "eject": "react-scripts eject",
-    "lint": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
     "package:clean": "rimraf node_modules",
     "package:reinstall": "yarn package:clean && yarn",
     "package:sort": "npx sort-package-json",
     "start": "BROWSER=none SKIP_PREFLIGHT_CHECK=true react-scripts start",
-    "style": "stylelint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "test": "react-scripts test"
   },
   "dependencies": {
@@ -19,23 +17,10 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.8.2",
     "eslint-plugin-prettier": "^3.1.4",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
     "react-scripts": "4.0.3",
     "rimraf": "^3.0.2",
     "sass-reset": "^1.0.2"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }
