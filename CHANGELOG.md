@@ -1,3 +1,10 @@
+## [1.4.18](https://github.com/syllogia/syllogia-www/compare/v1.4.17...v1.4.18) (2021-08-02)
+
+
+### Performance Improvements
+
+* remove linting dependencies and configurations + update CI actions ([b3ac2e3](https://github.com/syllogia/syllogia-www/commit/b3ac2e31227e14d86db4d6963cfa122a35669d46))
+
 ## [1.4.17](https://github.com/syllogia/syllogia-www/compare/v1.4.16...v1.4.17) (2021-08-02)
 
 
