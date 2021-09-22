@@ -9978,10 +9978,10 @@ sass-loader@^10.0.5:
     schema-utils "^3.0.0"
     semver "^7.3.2"
 
-sass-reset@^1.0.2:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/sass-reset/-/sass-reset-1.0.3.tgz#93160f774af0a647461a4f79b4ba5a504023edaa"
-  integrity sha512-1KKXTpbpGGT2Ii+DEcK+Kz6ak/oY+KemfAMlOnooDvDGLBkGiyirUQdWVj15dvOa+PpwvHyk0L+Zdj5lwngElQ==
+sass-reset@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/sass-reset/-/sass-reset-1.0.4.tgz#34b7c22383d63f03500f730f009014bb05fc3ee8"
+  integrity sha512-oS/ZgwGlKjDwVzSSLc5ky3DuLQGrZlBldhRvQy0VK4XcEby/A36eeOm32v4b8rv0Zc1Sg/adM3HPNVoeuJUWGA==
 
 sax@~1.2.4:
   version "1.2.4"
