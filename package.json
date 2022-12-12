@@ -1,6 +1,6 @@
 {
   "name": "@syllogia/syllogia-www",
-  "version": "1.4.88",
+  "version": "1.4.89",
   "license": "MIT",
   "scripts": {
     "build": "GENERATE_SOURCEMAP=false SKIP_PREFLIGHT_CHECK=true react-scripts build",
