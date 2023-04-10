@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "eslint-plugin-prettier": "^3.1.4",
-    "node-sass": "^6.0.1",
+    "node-sass": "^8.0.0",
     "react-scripts": "4.0.3",
     "rimraf": "^3.0.2",
     "sass-reset": "^1.0.2"
